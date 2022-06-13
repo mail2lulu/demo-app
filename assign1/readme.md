@@ -29,4 +29,3 @@
 ## Screen3 : Summary
 - the last screen will be summary of quiz 
 - score and time taken for each question
-![image](https://user-images.githubusercontent.com/5335912/173288873-1d1ef129-b198-4847-b99f-785c1e32ff0f.png)
